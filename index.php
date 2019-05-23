@@ -9,7 +9,11 @@ echo 'pls, tell the story';
 
 //did the branch to fix issue 01
 
-$issue = 1;
+$issue1 = 1;
+$issue2 = 2;
+
+echo 'Here are:' . $issue1;
+
 /* 
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
